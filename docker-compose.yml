@@ -5,8 +5,8 @@ services:
     image: cloudflare/cloudflared:latest
     restart: unless-stopped
     command: tunnel run
-    environment:
-      TUNNEL_TOKEN: 
+    env_file:
+      - .env
     logging:
       driver: local
       options:

@@ -7,8 +7,8 @@ Need the following:
 
 Cloudflare Policies:
 
-- ![Cloudflare CORS policy](https://r2-sharex.cyberjake.xyz/file/2023/12/firefox_K6EPBtmSPN.png)
-- ![Cloudflare Access Application](https://r2-sharex.cyberjake.xyz/file/2023/12/firefox_Nor8ASvm9x.png)
+- ![Cloudflare CORS policy](https://r2-sharex.cyberjake.xyz/file/2024/03/firefox_DawNag6jI1.png)
+- ![Cloudflare Access Application](https://r2-sharex.cyberjake.xyz/file/2024/03/firefox_AG7WxYmBLC.png)
 
 **Backend**:
 
